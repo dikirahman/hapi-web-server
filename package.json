@@ -1,0 +1,22 @@
+{
+  "name": "hapi-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikirahman/hapi-web-server.git"
+  },
+  "author": "Diki Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikirahman/hapi-web-server/issues"
+  },
+  "homepage": "https://github.com/dikirahman/hapi-web-server#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
